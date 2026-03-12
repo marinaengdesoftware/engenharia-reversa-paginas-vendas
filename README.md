@@ -41,7 +41,7 @@ Foram analisadas páginas de vendas e programas educacionais de instituições i
 
 Essas referências foram utilizadas para compreender **como cursos técnicos e corporativos são posicionados em mercados maduros**.
 
-:contentReference[oaicite:0]{index=0}
+
 
 ---
 
@@ -72,7 +72,7 @@ Cada página foi analisada utilizando o modelo vetorial FAVE:
 
 Essa análise permite identificar **qual emoção central sustenta a venda**.
 
-:contentReference[oaicite:1]{index=1}
+
 
 ---
 
@@ -122,7 +122,7 @@ Essa estrutura mantém coerência emocional entre:
 
 Esse alinhamento é fundamental para manter a **coerência multimodal (vetor M)** do framework FAVE.
 
-:contentReference[oaicite:2]{index=2}
+
 
 ---
 
@@ -141,7 +141,7 @@ Profissionais responsáveis por decisões financeiras e análise de investimento
 
 Cada público responde a **vetores emocionais diferentes**, exigindo comunicação específica.
 
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 
@@ -157,7 +157,7 @@ Entre os fatores mais relevantes para a performance da página:
 
 A headline, em particular, funciona como um **marcador semântico que orienta o algoritmo sobre qual público deve receber o anúncio**.
 
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
