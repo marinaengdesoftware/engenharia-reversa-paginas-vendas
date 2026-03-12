@@ -1,4 +1,3 @@
-# engenharia-reversa-paginas-vendas
 
 # Engenharia Reversa de Páginas de Vendas High-Ticket
 
