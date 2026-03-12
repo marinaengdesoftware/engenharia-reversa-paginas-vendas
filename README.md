@@ -1,180 +1,136 @@
+# Engenharia Reversa de Páginas de Vendas
 
-# Engenharia Reversa de Páginas de Vendas High-Ticket
+Este repositório documenta um processo de **engenharia reversa aplicado a páginas de vendas e estruturas de posicionamento de ofertas high-ticket**.
 
-Este repositório documenta um processo de **engenharia reversa aplicado a páginas de vendas e estruturas de posicionamento de produtos de alto valor**.
+O objetivo do projeto é identificar **padrões estruturais, emocionais e semânticos** presentes em páginas que conseguem vender produtos e serviços de alto valor.
 
-O objetivo do projeto é compreender **quais estruturas emocionais, verbais e estratégicas sustentam ofertas premium**, permitindo reconstruir páginas de vendas com base em padrões reais de mercado.
-
-A análise utiliza o framework **FAVE (Framework de Análise Vetorial Emocional)** para identificar os vetores psicológicos e narrativos presentes em páginas de vendas utilizadas por empresas e instituições de referência.
+A partir dessa análise é possível reconstruir páginas de vendas com base em **vetores psicológicos e narrativos que sustentam a conversão**.
 
 ---
 
 # Objetivo
 
-Extrair e modelar os elementos estruturais que tornam páginas de vendas eficazes em mercados técnicos e profissionais.
+Compreender os elementos invisíveis que sustentam páginas de vendas eficazes.
 
-Entre os fatores analisados estão:
+Entre os fatores analisados:
 
-- posicionamento de autoridade
+- estrutura narrativa da página
 - vetores emocionais dominantes
-- estrutura narrativa da oferta
 - arquétipos de comunicação
 - segmentação psicológica do público
+- gatilhos semânticos utilizados em headlines
 - coerência entre anúncio e página de destino
 
-A partir desses dados é possível **reconstruir ofertas comerciais mais alinhadas com o comportamento do público-alvo**.
+O foco não está apenas na copy, mas **na arquitetura estratégica da oferta**.
 
 ---
 
-# Metodologia Utilizada
+# Metodologia
 
-O projeto segue três etapas principais:
+O processo segue três etapas principais.
 
-### 1. Benchmark de Mercado
+## 1. Benchmark de Mercado
 
-Foram analisadas páginas de vendas e programas educacionais de instituições internacionais, incluindo:
+Primeiro são analisadas páginas de referência utilizadas por empresas e instituições que vendem produtos ou treinamentos de alto valor.
 
-- DNV (Det Norske Veritas)
-- Tonex Training
-- Stanford Online
-- Energy Transition Academy
+Essa etapa busca entender:
 
-Essas referências foram utilizadas para compreender **como cursos técnicos e corporativos são posicionados em mercados maduros**.
-
-
+- posicionamento de autoridade
+- estrutura da promessa
+- linguagem utilizada
+- público-alvo implícito
 
 ---
 
-### 2. Deconstrução com Framework FAVE
+## 2. Deconstrução Estrutural
 
-Cada página foi analisada utilizando o modelo vetorial FAVE:
+Cada página é analisada utilizando o framework **FAVE (Framework de Análise Vetorial Emocional)**.
 
-**DNA Visual**
-- composição
-- foco
-- estética institucional
+O objetivo é extrair:
 
-**DNA Emocional**
-- intensidade emocional
-- dominância
-- valência
+### DNA Emocional
+Qual emoção sustenta a venda.
 
-**DNA Verbal**
-- gatilhos semânticos
-- clareza de benefício
-- estrutura narrativa
+Exemplos:
 
-**Arquétipos de comunicação**
+- ambição financeira
+- medo da obsolescência
+- mitigação de risco
+
+### DNA Verbal
+
+Palavras e estruturas que conectam o problema à solução.
+
+### Arquétipos Narrativos
+
+Perfis psicológicos ativados pela comunicação:
+
 - Sábio
-- Guardião
 - Herói
 - Mago
-
-Essa análise permite identificar **qual emoção central sustenta a venda**.
-
-
+- Guardião
 
 ---
 
-### 3. Reconstrução Estratégica
+## 3. Reconstrução Estratégica
 
-Após a análise vetorial, foi desenvolvido um modelo híbrido de posicionamento combinando:
+Após identificar os vetores estruturais, é possível reconstruir páginas de vendas com base nesses padrões.
 
-**Autoridade e mitigação de risco (modelo DNV)**  
-+
-**capacitação técnica e transformação de carreira (modelo Tonex)**
+A reconstrução busca alinhar:
 
-O resultado é uma estrutura que comunica simultaneamente:
-
-- credibilidade técnica
-- aplicação prática
-- oportunidade de mercado
-
-Esse modelo foi utilizado para estruturar uma página de vendas com posicionamento premium.
-
----
-
-# Estrutura da Página Reconstruída
-Headline estratégica
-↓
-Problema emocional do público
-↓
-Promessa de transformação
-↓
-Autoridade técnica da metodologia
-↓
-Estrutura de módulos
-↓
-Prova de valor
-↓
-Comunidade / rede profissional
-↓
-Ancoragem de preço
-
-
-
-Essa estrutura mantém coerência emocional entre:
-
-- anúncio
-- headline
+- público
+- emoção dominante
 - promessa
-- conteúdo da página
+- estrutura narrativa
 
-Esse alinhamento é fundamental para manter a **coerência multimodal (vetor M)** do framework FAVE.
+---
 
+# Estrutura do Repositório
+engenharia-reversa-paginas-vendas
+│
+├── avatares
+│ definição de perfis de público e vetores emocionais
+│
+├── indicadores
+│ fatores estruturais que influenciam conversão
+│
+├── estrutura
+│ análise da arquitetura de páginas de vendas
+│
+├── reconstrução
+│ modelo reconstruído com base na análise
+│
+└── README.md
 
 
 ---
 
-# Segmentação de Público
+# Hipótese do Projeto
 
-A análise identificou três perfis principais de público dentro do mercado analisado:
+Páginas de vendas de alta performance não funcionam por acaso.
 
-### Integrador Solar (Foco em lucro)
-Profissionais que buscam diferenciação e novas oportunidades de mercado.
+Elas seguem **estruturas psicológicas e narrativas recorrentes** que ativam determinados comportamentos de decisão.
 
-### Engenheiro Eletricista (Foco em carreira)
-Profissionais técnicos preocupados com evolução profissional e especialização.
+Ao identificar essas estruturas, torna-se possível:
 
-### Consultor de Energia (Foco em risco e viabilidade)
-Profissionais responsáveis por decisões financeiras e análise de investimento.
-
-Cada público responde a **vetores emocionais diferentes**, exigindo comunicação específica.
-
-
+- compreender o posicionamento de ofertas premium
+- reconstruir páginas com maior coerência estratégica
+- alinhar comunicação com o vetor emocional do público
 
 ---
 
-# Elementos Estratégicos Identificados
+# Observação
 
-Entre os fatores mais relevantes para a performance da página:
+Este repositório apresenta **o processo analítico e estrutural** utilizado para compreender páginas de vendas.
 
-- headlines com forte gatilho emocional
-- segmentação semântica clara para o algoritmo de anúncios
-- alinhamento entre anúncio e página
-- posicionamento baseado em autoridade
-- promessa de transformação profissional
-
-A headline, em particular, funciona como um **marcador semântico que orienta o algoritmo sobre qual público deve receber o anúncio**.
-
-
+Ele não representa uma única página ou campanha específica, mas sim **um estudo sobre padrões de conversão e posicionamento comercial**.
 
 ---
 
-# Conclusão
+# Status do Projeto
 
-Este projeto demonstra como técnicas de engenharia reversa podem ser utilizadas para compreender **os mecanismos estruturais que sustentam ofertas comerciais de alto valor**.
+Pesquisa em desenvolvimento.
 
-Ao analisar:
-
-- estrutura emocional
-- linguagem
-- posicionamento
-- segmentação psicológica
-
-torna-se possível reconstruir páginas de vendas com maior alinhamento ao comportamento real do público.
-
----
+Novas análises e experimentos de reconstrução estratégica serão adicionados conforme o avanço do projeto.
 
 
-A estrutura final da página segue o seguinte modelo:
